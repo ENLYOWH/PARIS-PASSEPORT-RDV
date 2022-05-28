@@ -8,11 +8,7 @@ Python script that autamatically finds an appointement for you in the city hall 
         "time_in_secs"  : 9       #time interval between requests
     }
 - 2 - Install dependancues :
-	pip install playsound==1.2.2
-	pip install selenium
-- or run  
-	pip install -r requirements.txt
+pip install playsound==1.2.2 and pip install selenium
+- or run : pip install -r requirements.txt
 
-
-- 3 - if it doesnt works, verify and replace the chromedriver path bay your's :
-	default path = '.\chromedriver.exe'
+- 3 - if it doesnt works, verify and replace the chromedriver path bay your's : default path = '.\chromedriver.exe'
