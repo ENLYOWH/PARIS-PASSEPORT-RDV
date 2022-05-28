@@ -13,6 +13,8 @@
 - 2 - Install dependancues :
 - pip install playsound==1.2.2
 - pip install selenium
+- or run pip install -r requirements.txt
+
 
 - 3 - Change your chromedriver path :
 - path = 'D:\chromedriver_win32\chromedriver.exe'
